@@ -1,0 +1,65 @@
+body{margin:0px;}
+p {
+    color: white;
+  }
+.pp {
+    color: white;text-align: center;
+  }
+li {
+    color: gray;
+}
+.t{
+  background-color: #800101;font-weight: bold;
+  color:white;font-size:30px;text-align: center;
+  padding:7px;margin: 0;
+  vertical-align:super;
+  }
+.s{
+    background-color: #00000048;font-weight: bold;
+    color:white;font-size:14px;text-align: center;
+    padding:15px;margin: 0;
+    vertical-align:bottom;
+    height: 70px; /*設定footer本身高度*/
+    margin-top: -50px; /*隨footer高度需做調整*/
+    }
+.content{  
+  width:1800px;margin-left: auto;margin-right: auto;
+  height: 950px;
+  text-align:left;
+}
+.hp {
+  font-size: 20px;
+  font-style: italic;
+  color: rgb(255, 255, 255);
+}
+.content_1{  
+  width:1800px;margin-left: auto;margin-right: auto;
+  height: 1025px;
+  text-align:left;
+}
+.b1{
+  width: 300px;
+  padding: 10px;
+  margin: 10;
+  background-color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+.b2{
+  width: 610px;
+  padding: 10px;
+  margin: 10;
+  background-color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+.cc{
+  color:bisque;
+  font-size: small;
+  word-break: break-all;
+}
+.cc{
+  color:bisque;
+  font-size: large;
+  word-break: break-all;
+}
